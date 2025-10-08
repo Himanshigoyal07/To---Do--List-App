@@ -1,0 +1,1 @@
+To-Do-List app is a responsive tas management web application built using HTML,CSS and JavaScript. It allows users to add<edit,mark complete and delete tasks-helping them stay orgaized and productive.
